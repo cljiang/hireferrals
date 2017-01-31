@@ -13,6 +13,9 @@ We focus on the time period that combine the historical and the Representative C
 
 We carried out several machine learning algorithms, such as linear regression, decision trees, and random forest to build a relationship between pCO2 and four variales (features). We also evaluated their performances and poinpoited the sources of the model errors.
 
+CODING LANGUAGES:
+Mainly python, Scipy, Numpy, Pandas, Sklean, and MLlib. 
+
 REFERENCES:
 https://www.researchgate.net/publication/286483588_Spatial_variation_in_turbulent_heat_fluxes_in_Drake_Passage_vol_25_pg_1470_2012
 https://www.researchgate.net/publication/312233804_Southern_Ocean_surface_water_pCO_2_trends_in_CMIP5_ESMs
