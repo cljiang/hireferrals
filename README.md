@@ -1,3 +1,4 @@
+SUMMARY:
 Southern Ocean seawater pCO2 values are determined by a complex interplay of physical, biological, and chemical processes. The change of the surface oceanic pCO2 can be expressed as the sum of the changes in its four drivers: the surface ocean temperature (SST), salinity (SSS), Dissolved Inorganic Carbon (DIC), and alkalinity (ALK). 
 
 DIC and ALK are currently not directly measureable from satellite, in this study we aim to extract the interconnections between model pCO2 and its controlling variables, such as SST, MLDs (mixed layer depths), Chl-a (chlorophyll-a), and SSS. 
